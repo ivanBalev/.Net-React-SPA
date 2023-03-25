@@ -1,0 +1,1 @@
+public record AuthDto(string Token, long TokenExpirationTime, string Id);

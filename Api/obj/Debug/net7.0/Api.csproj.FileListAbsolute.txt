@@ -68,3 +68,11 @@ C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3
 C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\MiniValidation.dll
+C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\CryptoHelper.dll
+C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\T460s\reactweb\Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll

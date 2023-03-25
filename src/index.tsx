@@ -4,7 +4,9 @@ import './index.css';
 import App from './main/App';
 import "bootstrap/dist/css/bootstrap.min.css"
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import axios from 'axios';
 
+axios.defaults.withCredentials = true;
 const queryClient = new QueryClient();
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
